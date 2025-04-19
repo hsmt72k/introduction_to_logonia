@@ -103,7 +103,7 @@ https://logonia.vercel.app
 
 #### ✏️ 設定ステップ表示
 
-<img src="./images/steps.webp" width="360px" />
+<img src="./images/steps.webp" width="360px" style="border: 1px solid #777;" />
 
 #### ✏️ 入力チェック
 
