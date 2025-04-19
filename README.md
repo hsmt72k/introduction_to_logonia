@@ -50,36 +50,36 @@ https://logonia.vercel.app
 
 ### ユーザ認証機能
 
-- ログイン
-- ログアウト
+- 🗝️ ログイン
+- 🔐 ログアウト
 
 ### 生成ロゴ入力選択
 
-- ✏️ 設定ステップ表示
-- ✏️ 入力チェック
-- 🫦 1. ロゴタイトル入力
+- 🚶 設定ステップ表示
+- 🔍 入力チェック
+- 🌐 1. ロゴタイトル入力
 - 🪶 2. ロゴイメージの説明入力
-- 🌄 3. カラーパレット選択
-- 👩‍🦯 4. ロゴデザイン選択
-- 🤏 5. ロゴアイディア選択
-- 🧱 6. AI モデルプラン選択
+- 🎨 3. カラーパレット選択
+- 🧑‍🎨 4. ロゴデザイン選択
+- 👩‍🦯 5. ロゴアイディア選択
+- 🤏 6. AI モデルプラン選択
 
 ### ロゴ生成ページ
 
-- 📥 ロゴのダウンロード
-- 🧮 ダッシュボードへのリンク
+- ⚡ ロゴのダウンロード
+- 🧱 ダッシュボードへのリンク
 
 ### ダッシュボードページ
 
-- 📥 生成済みロゴ一覧表示
-- 📥 クレジット残高表示
-- 🧮 各ロゴの個別表示
+- 🧮 生成済みロゴ一覧表示
+- 💰 クレジット残高表示
+- 💅 各ロゴの個別表示
 
 ## <a name="example">🚀 アプリの利用サンプル</a>
 
 ##### ロゴ生成デモ
 <!-- ./images/logonia_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/1c7a47c6-e563-4b5e-966f-fb3bfa2757ac" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/a5a17130-b022-4a0c-9cde-5eb9aae681c0" controls="true"></video>
 
 ## <a name="screen_sample">💻 画面サンプル</a>
 
@@ -101,11 +101,11 @@ https://logonia.vercel.app
 
 ### 生成ロゴ入力選択
 
-#### ✏️ 設定ステップ表示
+#### 🚶 設定ステップ表示
 
 <img src="./images/steps.webp" width="360px" style="border: 1px solid #777;" />
 
-#### ✏️ 入力チェック
+#### 🔍 入力チェック
 
 ##### 未入力エラー
 
@@ -115,7 +115,7 @@ https://logonia.vercel.app
 
 <img src="./images/check_error_in_selecting_option.webp" width="360px" />
 
-#### 🫦 1. ロゴタイトル入力
+#### 🌐 1. ロゴタイトル入力
 
 <img src="./images/enter_logo_title.png" width="360px" />
 
@@ -123,19 +123,19 @@ https://logonia.vercel.app
 
 <img src="./images/enter_logo_description.png" width="360px" />
 
-#### 🌄 3. カラーパレット選択
+#### 🎨 3. カラーパレット選択
 
 <img src="./images/color_palette_selection.png" width="360px" />
 
-#### 👩‍🦯 4. ロゴデザイン選択
+#### 🧑‍🎨 4. ロゴデザイン選択
 
 <img src="./images/logo_design_selection.png" width="360px" />
 
-#### 🤏 5. ロゴアイディア選択
+#### 👩‍🦯 5. ロゴアイディア選択
 
 <img src="./images/logo_idea_selection.png" width="360px" />
 
-#### 🧱 6. AI モデルプラン選択
+#### 🤏 6. AI モデルプラン選択
 
 <img src="./images/ai_model_selection.png" width="360px" />
 
