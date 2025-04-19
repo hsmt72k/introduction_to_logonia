@@ -79,7 +79,7 @@ https://logonia.vercel.app
 
 ##### ロゴ生成デモ
 <!-- ./images/logonia_demo.mp4 -->
-<video src="https://github.com/user-attachments/assets/ae8595c4-0807-4848-85e8-e65a268ecc60" controls="true"></video>
+<video src="https://github.com/user-attachments/assets/1c7a47c6-e563-4b5e-966f-fb3bfa2757ac" controls="true"></video>
 
 ## <a name="screen_sample">💻 画面サンプル</a>
 
