@@ -43,6 +43,8 @@
 logonia | AI LOGO GENERATOR APP  
 https://logonia.vercel.app
 
+---
+
 ## <a name="description">😮‍💨 logonia の概要</a>
 
 **logonia（ロゴニア）** は、AI モデルを活用してオリジナルのロゴデザインを自動生成できる Web アプリです。
@@ -118,11 +120,15 @@ Google Gemini を利用したテキスト生成、Hugging Face などの画像�
 - 💰 クレジット残高表示
 - 💅 各ロゴの個別表示
 
+---
+
 ## <a name="example">🚀 アプリの利用サンプル</a>
 
 ##### ロゴ生成デモ
 <!-- ./images/logonia_demo.mp4 -->
 <video src="https://github.com/user-attachments/assets/a5a17130-b022-4a0c-9cde-5eb9aae681c0" controls="true"></video>
+
+---
 
 ## <a name="screen_sample">💻 画面サンプル</a>
 
@@ -190,6 +196,7 @@ Google Gemini を利用したテキスト生成、Hugging Face などの画像�
 
 <img src="./images/dashboard.png" width="360px" />
 
+---
 
 ## <a name="outro">🤸 おわりに</a>
 
