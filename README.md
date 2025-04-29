@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff" alt="Firebase" />
     <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff" alt="Google Gemini" />
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
-    <img src="https://img.shields.io/badge/Together%20AI-1E96EB?style=for-the-badge&logo=slashdot&logoColor=fff" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Together%20AI-1E96EB?style=for-the-badge&logo=slashdot&logoColor=fff" alt="Together AI" />
     <img src="https://img.shields.io/badge/Framer%20Motion-05F?style=for-the-badge&logo=framer&logoColor=fff" alt="Framer Motion" />
   </div>
 
